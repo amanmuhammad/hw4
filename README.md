@@ -1,4 +1,6 @@
-# CS102A - HW#3
+# CS102A - HW#4
+
+** Only do questions 1-3. Questions 4-8 are for HW#5 **
 
 Due 10/06/18 at 11:59PM.  
 Late submissions are subject to a 10% late penalty.
