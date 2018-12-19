@@ -4,5 +4,12 @@ Write a program that accepts a character using getchar and converts the characte
 
 Compile Steps:
 
+gcc question2.c
+./a.out
 
 Output:
+Enter a character.
+(a)
+The ASCII code is: 97
+The octal value is:141
+The hexadecimal value is: 61
